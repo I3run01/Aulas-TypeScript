@@ -1,0 +1,15 @@
+No terminal do arquivo Para mudar o arquivo JS em tempo real:
+1º: Configuraçõs TS: No terminal:
+    tsc --init
+
+Terminal -> WatchMode : Compila e fica salvando no JS
+    tsc script.ts -w
+
+
+Depois: Pode apenas digitar tsc no terminal:
+
+
+    
+
+
+
